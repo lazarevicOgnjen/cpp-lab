@@ -1,0 +1,7 @@
+#ifndef KLASA_H
+#define KLASA_H
+
+
+
+
+#endif
